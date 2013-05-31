@@ -1,0 +1,43 @@
+{
+  "name": "strapdown-workspace",
+  "version": "1.0.0",
+  "description": "strapdown.js + livereload = embarrassingly awesome markdown",
+  "homepage": "https://github.com/cxyokk/strapdown-workspace",
+  "author": {
+    "name": "Andrew Chen",
+    "email": "cxyokk@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cxyokk/strapdown-workspace"
+  },
+  "bugs": {
+    "url": "https://github.com/cxyokk/strapdown-workspace/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/cxyokk/strapdown-workspace/blob/master/LICENSE"
+    }
+  ],
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "echo not yet"
+  },
+  "keywords": [
+    "livereload",
+    "markdown",
+    "strapdown"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+    "grunt": "0.4.1",
+    "grunt-strapdown": "~1.0.0",
+    "grunt-contrib-connect": "~0.3.0",
+    "grunt-contrib-livereload": "~0.1.2",
+    "grunt-regarde": "0.1.1"
+  },
+  "readmeFilename": "README.md"
+}
