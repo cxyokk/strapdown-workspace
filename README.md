@@ -83,6 +83,6 @@ MIT license, see [LICENSE](LICENSE).
 [strapdown.com]: http://strapdownjs.com
 [default-template]: https://github.com/cxyokk/grunt-strapdown/blob/master/tasks/template.html
 [node-modules-git]: http://www.futurealoof.com/posts/nodemodules-in-git.html
-[grunt-strapdown]: http://cxyokk.github.io/grunt-strapdown/
+[grunt-strapdown]: https://github.com/cxyokk/grunt-strapdown/
 [grunt-regarde]: https://github.com/yeoman/grunt-regarde
 [grunt-contrib-watch]: https://github.com/gruntjs/grunt-contrib-watch
